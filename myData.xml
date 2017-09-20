@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<csv_data>
+<row>
+    <StudentID>970100</StudentID>
+    <FirstName>Tom</FirstName>
+    <LastName>Smith</LastName>
+</row>
+<row>
+    <StudentID>970101</StudentID>
+    <FirstName>David</FirstName>
+    <LastName>Washington</LastName>
+</row>
+<row>
+    <StudentID></StudentID>
+    <FirstName></FirstName>
+    <LastName></LastName>
+</row>
+</csv_data>
